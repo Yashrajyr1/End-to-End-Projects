@@ -21,12 +21,12 @@ By analyzing real-world collision data, this project highlights critical factors
   📈 Tableau / Power BI – Interactive dashboards
 
 🗂️🗂️ Project Structure
-nyc-collisions-analysis/
-├── data/                  # Raw and cleaned datasets
-├── notebooks/             # EDA, preprocessing, and analysis code
-├── visuals/               # Charts, maps, and dashboards
-├── dashboard/             # Tableau / Power BI files
-├── README.md              # Project overview
+  nyc-collisions-analysis/
+  ├── data/                  # Raw and cleaned datasets
+  ├── notebooks/             # EDA, preprocessing, and analysis code
+  ├── visuals/               # Charts, maps, and dashboards
+  ├── dashboard/             # Tableau / Power BI files
+  ├── README.md              # Project overview
 
 
 🔍🔍 Key Insights
