@@ -1,0 +1,8 @@
+📁 datasets
+Contains raw and cleaned NYC collision data used throughout the project.
+Includes CSV files ready for analysis and dashboard integration.
+
+Files:
+  **NYC_Collisions (original)
+  *NYC_Collisions_cleaned
+  *NYC_Collisions_data_dictionary
