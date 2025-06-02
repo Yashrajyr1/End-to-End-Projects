@@ -4,7 +4,7 @@
   *This repository showcases a collection of end-to-end data analysis projects where I’ve applied industry-standard tools and techniques to gain insights from real-world datasets.*
 
 - Each project follows a structured pipeline from data collection to final conclusions. 
-- These projects demonstrate my proficiency in EDA (Exploratory Data Analysis), data wrangling, visualization, statistical analysis, and more!
+These projects demonstrate my proficiency in EDA (Exploratory Data Analysis), data wrangling, visualization, statistical analysis, and more!
 
 ---
 
@@ -34,9 +34,10 @@
 ## 📌📌 Highlight Projects-
     - 🏪 Car Sales Analysis – Seasonal trends, top models, and customer segments
     - 🚗 NYC Collisions and accidents – Collisions factors, peak times, Casualities etc.🚗🚗
-*
+
     - 😰 Anxiety Trends Analysis – Mental health survey insights
     - 📉 Company Performance – Multi-metric business health check
+    
     *etc....*
 
 ---                                            
@@ -49,4 +50,4 @@
 
 ---
 - Feel free to ⭐ star the repo if you find it helpful!
-Suggestions and contributions are always welcome. 🙌
+- Suggestions and contributions are always welcome. 🙌
